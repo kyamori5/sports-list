@@ -24,30 +24,6 @@
     }
   },
   {
-    "id": "REQ-2026-423643",
-    "submittedAt": "2026-07-22T04:27:03.643Z",
-    "status": "pending",
-    "form": {
-      "reportType": "result",
-      "applicantName": "朝日　太郎",
-      "applicantEmail": "test@test.jp",
-      "applicantPosition": "coach",
-      "clubName": "baseball",
-      "activityContent": "朝日大学　10 　　中京大学　0",
-      "matchLocation": "",
-      "matchAddress": "",
-      "matchDatetime": "2026-07-15",
-      "matchEndDatetime": "2026-07-15",
-      "matchOfficial": "unofficial",
-      "matchSpectators": "",
-      "matchDetail": "",
-      "result": "優勝",
-      "notes": "",
-      "visibility": "public",
-      "rosterUrl": ""
-    }
-  },
-  {
     "id": "REQ-2026-190646",
     "submittedAt": "2026-07-22T04:23:10.647Z",
     "status": "approved",
