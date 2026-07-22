@@ -46,30 +46,5 @@
       "visibility": "public",
       "rosterUrl": ""
     }
-  },
-  {
-    "id": "IMP-MRVUHDUG-PBAW",
-    "submittedAt": "2026-07-22T08:53:04.216Z",
-    "status": "pending",
-    "hiddenFromPublic": false,
-    "form": {
-      "reportType": "plan",
-      "clubName": "baseball",
-      "applicantName": "朝日　太郎",
-      "applicantEmail": "test@test.jp",
-      "applicantPosition": "supervisor",
-      "activityContent": "練習試合",
-      "matchLocation": "朝日大学",
-      "matchAddress": "",
-      "matchDatetime": "",
-      "matchEndDatetime": "",
-      "matchOfficial": "unofficial",
-      "matchSpectators": "yes",
-      "matchDetail": "",
-      "result": "",
-      "notes": "",
-      "visibility": "public",
-      "rosterUrl": ""
-    }
   }
 ]
