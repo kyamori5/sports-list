@@ -21,7 +21,8 @@
       "notes": "",
       "visibility": "public",
       "rosterUrl": ""
-    }
+    },
+    "hiddenFromPublic": true
   },
   {
     "id": "REQ-2026-066019",
