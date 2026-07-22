@@ -48,31 +48,6 @@
     }
   },
   {
-    "id": "REQ-2026-166715",
-    "submittedAt": "2026-07-19T04:42:46.715Z",
-    "status": "approved",
-    "form": {
-      "reportType": "plan",
-      "applicantName": "朝日　太郎",
-      "applicantEmail": "test@test.jp",
-      "applicantPosition": "coach",
-      "clubName": "baseball",
-      "activityContent": "公式戦。夏の県大会。",
-      "matchLocation": "長良川球場",
-      "matchAddress": "",
-      "matchDatetime": "",
-      "matchEndDatetime": "",
-      "matchOfficial": "official",
-      "matchSpectators": "",
-      "matchDetail": "",
-      "result": "",
-      "notes": "",
-      "visibility": "public",
-      "rosterUrl": ""
-    },
-    "hiddenFromPublic": true
-  },
-  {
     "id": "REQ-2026-066019",
     "submittedAt": "2026-07-19T03:17:46.019Z",
     "status": "approved",
