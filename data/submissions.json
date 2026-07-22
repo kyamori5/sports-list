@@ -46,29 +46,5 @@
       "visibility": "public",
       "rosterUrl": ""
     }
-  },
-  {
-    "id": "REQ-2026-066019",
-    "submittedAt": "2026-07-19T03:17:46.019Z",
-    "status": "approved",
-    "form": {
-      "reportType": "plan",
-      "applicantName": "朝日大学",
-      "applicantEmail": "test@test.jp",
-      "applicantPosition": "supervisor",
-      "clubName": "rugby",
-      "activityContent": "練習試合。１年生が中心",
-      "matchLocation": "朝日大学グラウンド",
-      "matchAddress": "",
-      "matchDatetime": "",
-      "matchEndDatetime": "",
-      "matchOfficial": "unofficial",
-      "matchSpectators": "yes",
-      "matchDetail": "",
-      "result": "",
-      "notes": "",
-      "visibility": "public",
-      "rosterUrl": ""
-    }
   }
 ]
