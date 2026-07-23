@@ -19,5 +19,12 @@
     "email": "sho1990@asahi-u.ac.jp",
     "passwordHash": "e7042ac7d09c7bc41c8cfa5749e41858f6980643bc0db1a83cc793d3e24d3f77",
     "createdAt": "2026-07-23T10:33:39.816Z"
+  },
+  {
+    "id": "STF-MRXDK4L6",
+    "name": "佐々木　淳",
+    "email": "jsasaki@asahi-u.ac.jp",
+    "passwordHash": "e7042ac7d09c7bc41c8cfa5749e41858f6980643bc0db1a83cc793d3e24d3f77",
+    "createdAt": "2026-07-23T10:34:51.067Z"
   }
 ]
