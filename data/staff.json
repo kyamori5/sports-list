@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "STF-MRXCIH5X",
+    "name": "朝日　太郎",
+    "email": "au-sports@s.asahi-u.ac.jp",
+    "passwordHash": "e7042ac7d09c7bc41c8cfa5749e41858f6980643bc0db1a83cc793d3e24d3f77",
+    "createdAt": "2026-07-23T10:05:34.437Z"
+  }
+]
