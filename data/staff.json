@@ -26,5 +26,12 @@
     "email": "jsasaki@asahi-u.ac.jp",
     "passwordHash": "e7042ac7d09c7bc41c8cfa5749e41858f6980643bc0db1a83cc793d3e24d3f77",
     "createdAt": "2026-07-23T10:34:51.067Z"
+  },
+  {
+    "id": "STF-MS93GZCF",
+    "name": "矢守 恭子",
+    "email": "kyamori@asahi-u.ac.jp",
+    "passwordHash": "e7042ac7d09c7bc41c8cfa5749e41858f6980643bc0db1a83cc793d3e24d3f77",
+    "createdAt": "2026-07-31T15:25:42.255Z"
   }
 ]
